@@ -1,0 +1,22 @@
+3 - DayofMonth - index: 0, int
+1 - DayOfWeek - index: 1, int
+10/3/16 - FlightDate - index: 2, String
+AA - UniqueCarrier - index: 3, String
+N786AA - TailNum - index: 4, String
+10721 - OriginAirportID - index: 5, String
+BOS - Origin - index: 6, String
+Massachusetts - OriginStateName - index: 7, String
+12478 - DestAirportID - index: 8, String
+JFK - Dest - index: 9, String
+New York - DestStateName - index: 10, String
+556 - DepTime - index: 11, int
+-4 - DepDelay - index: 12, int
+623 - WheelsOff - index: 13, int
+703 - WheelsOn - index: 14, int
+709 - ArrTime - index: 15, int
+-6 - ArrDelay - index: 16, int
+0 - Cancelled - index: 17, int
+A - CancellationCode - index: 18, character
+0 - Diverted - index: 19, int
+40 - AirTime - index: 20, int
+187 - Distance - index: 21, int

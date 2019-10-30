@@ -1,0 +1,29 @@
+getBusiestAirport
+
+        //Get DestinationAirportID
+        /*
+        for (Flight flight: flights) {
+            String airportID = flight.getStringProperty("DestAirportID");
+            boolean dataEntryExists = (airportID != null);
+            if (dataEntryExists) {
+                destinationAirportID.add(airportID);
+            }
+        }
+        System.out.println("This is the DestinationAirportIDs: " + destinationAirportID);
+        System.out.println(destinationAirportID.size());
+
+        HashMap<String, Integer> destinationMap = new HashMap<>();
+        for (String i : destinationAirportID) {
+            Integer count = destinationMap.get(i);
+            destinationMap.put(i, (count == null) ? 1 : count + 1);
+        }
+
+        for (Map.Entry<String, Integer> show : destinationMap.entrySet()) {
+            System.out.println("OriginAirportID " + show.getKey() + " occurs: " + show.getValue() + " times");
+        }
+
+         */
+
+//        System.out.println(destinationMap.equals(originMap))
+        /*
+        Need to now compare both hashMaps and count the total times each unique AirportID is counted

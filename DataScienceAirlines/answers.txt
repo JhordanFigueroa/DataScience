@@ -1,0 +1,9 @@
+AA,1.2903225806451613%
+B
+N789AA
+11292
+11292
+13232
+6
+17,1,N783AA
+The plane with the least miles flown is: TailNum N850AA with total miles: 159
